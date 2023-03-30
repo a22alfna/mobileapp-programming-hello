@@ -2,6 +2,11 @@
 # Rapport
 
 **Skriv din rapport här!**
+Det jag gjorde för uppgift 1 var att jag ändrade texten i stringen i dokumentet "strings.xml"
+från "hello" till "hello cruel world".
+<resources>
+<string name="app_name">Hello cruel world </string>
+</resources>
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
